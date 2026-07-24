@@ -1,37 +1,67 @@
 ---
 name: negotiation-frameworks
-description: Apply proven negotiation frameworks including BATNA, ZOPA, Harvard Principled Negotiation, the 4 Phases process, and the Negotiation Matrix. Use when users ask about negotiations, deal-making, bargaining strategies, salary or contract talks, how to prepare for negotiations, BATNA, ZOPA, interests vs positions, or request frameworks, checklists, or coaching for stronger deals.
+description: Apply proven negotiation frameworks and techniques including BATNA, ZOPA, Harvard Principled Negotiation, the 4 Phases process, Negotiation Matrix, IFORESAW preparation, and Chris Voss tactical empathy (mirroring, labeling, calibrated questions, Ackerman). Use when users ask about negotiations, deal-making, bargaining strategies, salary or contract talks, how to prepare for negotiations, BATNA, ZOPA, interests vs positions, FBI-style negotiation, tactical empathy, or request frameworks, checklists, or coaching for stronger deals.
 ---
 
 # Negotiation Frameworks
 
 ## Core Principle
 
-Great negotiators are the most prepared, not the most aggressive. Best deals happen when both sides feel heard. Use frameworks instead of relying on confrontation or intuition alone.
+Great negotiators are the most prepared, not the most aggressive. Best deals happen when both sides feel heard. Curiosity beats persuasion. Preparation creates leverage. Use frameworks instead of relying on confrontation or natural talent — you negotiate every day (team alignment, raises, boundaries, deadlines).
 
-## The Five Proven Frameworks
-
-Always draw from these (credit sources when relevant):
+## Core Frameworks
 
 ### 1. The 4 Phases Framework (Roy Lewicki)
 Structure every negotiation as a process — never jump straight to bargaining:
 
-1. **Preparation** — Lay the groundwork (goals, limits, research, BATNA, interests).
-2. **Information Exchange** — Build mutual understanding (ask questions, listen, uncover interests).
-3. **Bargaining** — Explore potential solutions and trade-offs.
-4. **Commitment** — Secure the agreement clearly (terms, next steps, documentation).
+1. **Preparation** — Lay the groundwork (use IFORESAW below).
+2. **Information Exchange** — Build mutual understanding (apply Voss tactical empathy + Harvard interests).
+3. **Bargaining** — Explore solutions and trade-offs (optionally use Ackerman pattern).
+4. **Commitment** — Secure the agreement clearly (terms, next steps, documentation). Negotiate for implementation, not just the signature.
 
-### 2. BATNA Strategy (Fisher & Ury)
+### 2. IFORESAW / I FORESAW IT Preparation System (Seth Freeman)
+Preparation creates leverage. Most people prepare arguments; great negotiators prepare the full picture. Use this checklist before any important conversation:
+
+- **I** — Interests (yours, theirs, shared, stakeholders’)
+- **F** — Factual & Financial research (market data, constraints, history)
+- **O** — Options (brainstorm 6+ creative deal structures)
+- **R** — Rapport (tone, opening, soft on people / hard on problem)
+- **E** — Empathy & Ethics (see it from their seat; ethical limits)
+- **S** — Setting & Scheduling (where, when, format, deadlines)
+- **A** — Alternatives to agreement (your BATNA and theirs)
+- **W** — Who (decision-makers, influencers, hidden stakeholders)
+- **I** — Independent / objective Criteria
+- **T** — Topics, Targets & Tradeoffs (agenda, aspiration/reservation per topic, prioritization)
+
+Win the preparation and half the negotiation is already over.
+
+### 3. BATNA Strategy (Fisher & Ury)
 **Best Alternative to a Negotiated Agreement**.
 
-- Define your BATNA *before* any negotiation begins. It is your safety net and primary source of power/confidence.
-- Improve your BATNA whenever possible (create better alternatives outside the deal).
+- Define it *before* any negotiation. It is your safety net and primary source of calm power.
+- Improve it whenever possible.
 - Estimate the other party’s BATNA.
 - Never accept a deal worse than your BATNA.
-- A strong BATNA lets you walk away calmly.
+- The stronger your BATNA, the calmer your decisions become. The calmest person in the room usually has the least to lose.
 
-### 3. The Negotiation Matrix (Lewicki & Hiam)
-Choose strategy based on the relative importance of the outcome vs the relationship:
+### 4. ZOPA Framework (Fisher & Ury)
+**Zone of Possible Agreement** — the overlapping range where a deal is possible.
+
+- Identify your reservation point and estimate theirs.
+- Everything outside the ZOPA is noise.
+- If no overlap, walk away or expand the zone by creating new value (add variables, contingent terms, non-monetary items).
+
+### 5. Harvard Principled Negotiation (Fisher, Ury & Patton)
+Solve the problem, not the ego.
+
+- Separate the people from the problem.
+- Focus on interests (“why”) instead of positions (“what”).
+- Invent options for mutual gain.
+- Insist on objective criteria.
+- Goal is an agreement both sides want to keep and can actually implement.
+
+### 6. Negotiation Matrix (Lewicki & Hiam)
+Choose strategy by relative importance of outcome vs relationship:
 
 | Concern for Outcome | Concern for Relationship | Strategy     | When to use                          |
 |---------------------|--------------------------|--------------|--------------------------------------|
@@ -41,61 +71,64 @@ Choose strategy based on the relative importance of the outcome vs the relations
 | Low                 | Low                      | Avoid        | Minor issue, not worth the energy    |
 | Medium              | Medium                   | Compromise   | Both matter equally, time pressure   |
 
-### 4. Harvard Principled Negotiation (Fisher, Ury & Patton)
-Focus on **interests**, not positions.
+### 7. Chris Voss Tactical Empathy (FBI / Never Split the Difference)
+Curiosity beats persuasion. People reveal far more when they feel understood than when they feel pressured.
 
-- Separate the people from the problem.
-- Focus on interests (“why” they want something) instead of positions (“what” they demand).
-- Invent options for mutual gain.
-- Insist on using objective criteria.
-- Ask “why” repeatedly to uncover underlying needs. This expands the pie instead of splitting it.
+Core techniques for Information Exchange (and throughout):
 
-### 5. ZOPA Framework (Fisher & Ury)
-**Zone of Possible Agreement** — the overlapping range where a deal is possible.
-
-- Identify your reservation point (walk-away) and theirs (estimated).
-- Everything outside the ZOPA is noise.
-- A deal only exists inside the ZOPA. If no overlap, walk away or expand the zone by creating new value.
+- **Mirroring** — Repeat the last 1–3 words (or key phrase) as a question. Forces elaboration.
+- **Labeling** — Name the emotion or dynamic: “It seems like…”, “It sounds like you’re concerned about…”. Diffuses and surfaces real issues.
+- **Calibrated questions** — Open questions that start with “What” or “How” (rarely “Why”): “How am I supposed to do that?”, “What about this is important to you?”, “How can we solve this?”. Makes the other side solve your problem.
+- **Accusation audit** — Pre-emptively list the worst things they could say about you; it disarms.
+- **Ackerman Bargaining** (for price / quantitative issues):
+  1. Set clear target price.
+  2. Open at ~65% of target.
+  3. Plan three decreasing raises: 85% → 95% → 100%.
+  4. Use empathy and calibrated questions between offers; never negotiate against yourself.
+  5. Final number uses precise (non-round) figures.
+  6. On the final offer, add a non-monetary item of low value to signal you are at your limit.
 
 ## How the Frameworks Work Together
 
-1. Start with **Preparation** (Phase 1) → define BATNA, reservation points, interests, and estimate the other side’s.
-2. Map the situation on the **Negotiation Matrix** to choose overall strategy (compete / collaborate / etc.).
-3. During Information Exchange use the **Harvard method** (interests over positions) to expand the possible **ZOPA**.
-4. Bargain inside the ZOPA.
-5. Close with clear **Commitment**.
+1. **Preparation** (Phase 1 + full IFORESAW) → define BATNA, reservation points, interests, stakeholders, options, and objective criteria. Estimate their side.
+2. Map the situation on the **Negotiation Matrix** to choose overall posture.
+3. **Information Exchange** — lead with Voss tactical empathy (mirror, label, calibrated questions) while uncovering interests via the Harvard method. This expands the possible **ZOPA**.
+4. **Bargaining** — stay inside the ZOPA; use creative options and, when appropriate, the Ackerman pattern for numbers.
+5. **Commitment** — clear terms + focus on implementation and relationship strength after the deal.
 
 ## Best Practices & Habits
 
 - Begin every important conversation by understanding the other person’s perspective before defending your own.
-- Prepare your values, limits, and BATNA before entering any negotiation. Self-awareness brings calm under pressure.
-- Measure success by the strength of the relationship *after* the agreement, not just the terms won.
+- Prepare with IFORESAW (or at minimum BATNA + interests + reservation) before entering. Self-awareness brings calm.
 - Curiosity creates better outcomes than trying to “win.” Ask more questions than you make statements.
-- Uncover the economics and priorities behind each side’s positions.
+- Measure success by the strength of the relationship *and* the implementability of the agreement, not just the terms extracted.
+- Different contexts need different weightings: high-stakes commercial deals lean on BATNA/ZOPA/Harvard; difficult interpersonal or team conversations lean on Voss tactical empathy.
 - Teams often prepare what to *say* but forget what to *learn*. Best negotiators ask the best questions.
+- The real skill is knowing which framework to lead with based on what is actually at stake for both parties.
 
 ## Step-by-Step Application
 
 When helping a user prepare or review a negotiation:
 
-1. Clarify the context (salary, deal, partnership, conflict, one-time vs ongoing relationship).
-2. Help define or stress-test their **BATNA** and reservation point.
-3. Map the situation on the **Negotiation Matrix**.
-4. Uncover underlying interests (theirs and the counterpart’s) using the Harvard approach.
-5. Estimate the **ZOPA**.
-6. Outline the 4 Phases plan with specific questions and moves for each phase.
-7. Suggest objective criteria and options for mutual gain.
-8. Provide a simple checklist or one-page prep sheet.
+1. Clarify context (salary, deal, partnership, conflict, one-time vs ongoing).
+2. Run or co-create an IFORESAW-style prep (or the one-page template).
+3. Define / stress-test BATNA and reservation point; estimate theirs.
+4. Map on the Negotiation Matrix.
+5. Uncover interests (Harvard) and plan Voss moves (mirrors, labels, calibrated questions).
+6. Estimate ZOPA and list options that could expand it.
+7. Outline the 4 Phases with specific questions and tactics for each phase (include Ackerman if quantitative).
+8. Suggest objective criteria and post-deal implementation checks.
+9. Offer the one-page prep template.
 
 ## Output Style
 
-- Prefer clear frameworks, matrices, and checklists.
-- Always link advice back to one or more of the five frameworks.
-- Be practical and calm — focus on preparation and mutual value, never aggression.
-- When useful, offer a one-page negotiation prep template.
+- Prefer clear frameworks, matrices, checklists, and concrete phrasing (exact mirror/label/question examples).
+- Always link advice back to one or more of the frameworks/techniques.
+- Be practical and calm — focus on preparation, curiosity, and mutual value.
+- When useful, offer or fill the one-page negotiation prep template.
 
 ## References & Assets
 
-- Expanded examples and situation-specific plays: `references/examples-and-plays.md`
+- Expanded examples, Voss plays, and situation-specific tactics: `references/examples-and-plays.md`
 - Diagnostic questions and common mistakes: `references/diagnostics.md`
-- One-page negotiation prep template (markdown): `assets/negotiation-prep-template.md`
+- One-page negotiation prep template (IFORESAW-enhanced): `assets/negotiation-prep-template.md`
